@@ -10,7 +10,6 @@
         id="page"
         title="{i18n>title}"
     >
-    <Text text="Hi im from sreedhar"></Text>
         <content>
             <Table
                 id="idTable"
