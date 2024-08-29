@@ -10,6 +10,7 @@
         id="page"
         title="{i18n>title}"
     >
+    <Text id="uijhgtf" text="HI im added by subhash"></Text>
         <content>
             <Table
                 id="idTable"
