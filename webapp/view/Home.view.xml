@@ -11,6 +11,7 @@
         title="{i18n>title}"
     >
     <Text id="uijhgtf" text="HI im added by subhash"></Text>
+    <Text id="idtext2" text="This text added by Viswa."></Text>
         <content>
             <Table
                 id="idTable"
